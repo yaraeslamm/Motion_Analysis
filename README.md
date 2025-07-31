@@ -33,7 +33,7 @@ This project analyzes video motion by generating two visual representations:
 
 ---
 
-## ▶How to Run
+## How to Run
 
 This project was built in Google Colab.
 
